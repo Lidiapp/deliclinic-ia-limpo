@@ -1,3 +1,0 @@
-// App.jsx
-
-// Código principal React aqui...

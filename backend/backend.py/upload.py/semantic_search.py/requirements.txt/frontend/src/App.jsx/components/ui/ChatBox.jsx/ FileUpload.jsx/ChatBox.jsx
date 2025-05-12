@@ -1,3 +1,0 @@
-// ChatBox.jsx
-
-// Código do componente de chat aqui...

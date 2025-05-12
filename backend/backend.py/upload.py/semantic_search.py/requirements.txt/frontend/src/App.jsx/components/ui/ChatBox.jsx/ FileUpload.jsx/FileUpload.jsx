@@ -1,3 +1,0 @@
-// FileUpload.jsx
-
-// Código do componente de upload aqui...
