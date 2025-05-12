@@ -1,0 +1,3 @@
+# semantic_search.py
+
+# Código busca semântica aqui...
