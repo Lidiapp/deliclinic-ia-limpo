@@ -1,0 +1,3 @@
+// AvatarIA.jsx
+
+// Código do componente de avatar aqui...
